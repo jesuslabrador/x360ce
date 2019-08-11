@@ -1,5 +1,5 @@
 ﻿using System;
-using Microsoft.Win32;
+using Microsoft.Win64;
 using x360ce.Engine;
 
 namespace x360ce.App.Issues
